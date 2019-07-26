@@ -1,0 +1,57 @@
+- Wat je moet weten
+- Wat handig kan zijn
+
+Waarom de veranderingen
+- ook oudere wetgeving maar zeker de nieuwe EU-verordening die gaat over de bescherming van persoonsgegevens stelt strenge eisen aan de omgang met persoonsgegevens
+- de belangrijkste eis, het belangrijkste principe, is dat een gebruiker van persoonsgegevens:
+-- enkel waneer strikt noodzakelijk,
+-- doorgaans zo kort mogelijk,
+-- met goedkeuring van de persoon om wiens gegevens het gaat en
+-- absoluut niet langer dan deze persoon wil (ook al zijn de gegevens nog "nodig");
+-- toegang heeft, beschikking heeft, over die gegevens;
+- dat betekent dat niet heel Kompassie hoeft te beschikken en mag beschikken over gegevens die een individuele vrijwilliger/medewerker nodig heeft voor het helpen van een bezoeker;
+- die wetgeving is ook gewoon netjes, laat bezoekers zich veiliger voelen en versterkt de vertrouwensband en verkleint het risico van bijvoorbeeld identiteitsfraude
+- een opgeruimder werkstation, opgeruimdere computer, maakt dingen overzichtelijker, werken (uiteindelijk) sneller en geeft meer rust;
+- consistente instellingen van alle computers verkleint de kans op problemen of verwarring en maakt werken sneller.
+
+Wat je moet weten
+- Bij het opstarten van de computers worden alle documenten die "incidenteel" zijn opgeslagen verwijderd,
+- de toestand wordt teruggebracht naar die van de ochtend daarvoor en (dus ook)
+- documenten op het bureaublad, dat door iedereen wordt gedeeld, worden verwijderd;
+- (nieuwe) mappen op het bureaublad worden niet verwijderd en moeten dus ook nooit worden gebruikt/gemaakt;
+- elk heel en half uur wordt de prullenbak geleegd en worden (PDF-)documenten op het bureaublad die ouder zijn dan 10 minuten verwijderd;
+- de documenten die dan worden verwijderd staan dan nog wel in de prullenbak;
+- rond 13u worden alle documenten op het bureaublad verwijderd (die komen niet in de prullenbak);
+- bij het opschonen van de computers rond 13u kan het zijn dat de programma's die je open hebt staan even worden geminimaliseerd;
+- veranderingen van het bureaublad zoals de plek van icoontjes en de bureaubladachtergrond en verwijzingen naar mappen in de linkerbalk in Verkenner worden herstelt mocht dat noodzakelijk zijn;
+- er is één map die (zo goed als mogelijk) voldoet aan de eisen om persoonsgegevens op te slaan omdat elke PC een eigen map heeft die (in principe) alleen toegankleijk is van de computer waar die bij hoort;
+- deze map heet de "opslagmap" en kan geopend worden door op het bureaublad op het icoontje met daaronder "Opslagmap" te klikken;
+- alle bestanden die je download via Firefox worden automatisch opgeslagen in dezelfde map (alles wat je enkel opent niet);
+- deze map kan ook geopend worden door in een Verkennervenster (bijvoorbeeld het venster wat verschijnt als je een document wilt uploaden) in de linkerbalk eenmaal te klikken op de verwijzing, de tekst of het kleine icoontje, waar het nummer staat dat overeenkomt met het nummer op het display van de telefoon op je tafel (bijvoorbeeld "211" of "224"), het derde icoontje onder "Snelle toegang";
+- zo kun je bijvoorbeeld snel scans (of andere documenten) uploaden;
+- het is dus zeer belangrijk en handig om alle documenten op te slaan in die dezelfde map, de opslagmap (die altijd hoort bij de computer waarop je werkt en alleen door jou makkelijk kan worden gebruikt en gevonden);
+- elke keer als je Firefox sluit wordt deze opnieuw opgestart zodat de volgende collega snel aan de slag kan met een "schone lei";
+- het is de bedoeling dat je per bezoeker maar 1 keer de browser sluit (via de "x"), als de bezoeker weg gaat;
+- als je Firefox sluit wordt de opslagmap geleegd (in de prullenbak) en worden alle gegevens van de bezoeker die in Firefox staan (zoals ingelogde webmail of DigiD) ook verwijderd;
+- dit duurt even en als je de browser voortijdig uitzet dan zullen documenten die je misschien nog nodig hebt worden wegegooid (in de prullenbak);
+- het heeft geen voordeel om de browser meerdere keren voor 1 bezoeker af te sluiten;
+- je bent er zeker van dat als je de browser uitzet alle gegevens van de bezoeker die je net hebt geholpen zijn direct worden verwijderd en een collega niets hoeft uit te loggen van een eerdere bezoeker of bestanden hoeft weg te gooien;
+- je zult zelf ook nooit (meer) vergeten om documenten weg te gooien;
+- enkel als en wanneer je iemand langdurig en vaak helpt kun je documenten opslaan in je persoonlijke werkmap, maar je kunt het ook bijvoorbeeld op iemands OneDrive in Hotmail of Google Drive in Gmail zetten of mailen naar de bezoeker;
+- documenten in je werkmap worden nooit automatisch verwijderd.
+
+Dit kan handig zijn
+- De browser Firefox is aangepast aan de behoeften van de baliemedewerkers en het steunpunt (instellingen voor beide verschillen)
+-- menuutjes en favorieten/links onder de adresbalk verwijzen naar:
+--- sites die doorgaans vaak gebruikt worden; naar
+--- "gereedschap" dat gebruikt kan worden om, bijvoorbeeld,
+--- pagina's te printen
+--- telefoonnummers op te zoeken,
+--- berekeningen te maken met een kleine rekenmachine en
+--- een net ingevoerd wachtwoord op site weer te geven.
+- Als je wilt scannen kun je snel en makkelijk bij je scanbestanden door vóór dat je gaat scannen op het icoontje met daaronder "Scanmap" (met een lens) op het bureaublad te klikken;
+-- denk er aan dat je niet direct iets ziet veranderen op je scherm omdat de programmatuur, het script dat je hiermee start, er rekening mee houdt dat je nog naar het kopieerapparaat moet lopen en het daarop wacht; 
+-- je bestanden komen automatisch in de "opslagmap" die automatisch opent na de "wachttijd", wanneer je bij het kopieerapparaat staat, tenzij je erg lang doet over het scannen;
+-- het script/programma wacht wat langer als er al iemand aan het scannen is;
+-- je bestanden komen ook in de "Scans"-map (het icoontje heeft geen lens, maar is dat van een "gewone" map);
+-- de "Scans" map kun je ook openen vanuit de opslagmap (het icoontje staat daar ook in).
